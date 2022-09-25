@@ -1,0 +1,21 @@
+h1 {color: black;
+text-indent: 1em;
+font-family: sans-serif;
+font-size: 35px;
+border: 1px solid #000033;
+border-radius: 10px;
+box-shadow: 5px 5px 5px #828282;
+box-shadow: inset 5px 5px 5px #828282;
+padding: 10px;}
+p {color: black;
+text-indent: 1em;
+font-family: Verdana;
+font-size: 25px;}
+img {width: 50%;
+width: 600px;
+height: 600px;}
+#content { background-image: url("https://img.rawpixel.com/private/static/images/website/2022-05/px1594884-image-kwvxry3h.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=c0fe5279739fdf3c40275fc2f3cfcb20") ;
+background-repeat: no-repeat;
+margin-left: auto;
+margin-right: auto;
+background-size: cover;

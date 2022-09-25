@@ -1,20 +1,27 @@
-h1 {color: greenyellow;
+h1 {color: black;
 text-indent: 3em;
-font-family: :Arial;}
+font-family: Arial;}
 h2 {color: red;
 text-indent: 3em;
 font-family: Verdana;}
 body {color: blueviolet;
 text-indent: 2em;
 font-family: Arial;}
-li {color: hotpink;
+li {color: magenta;
 font-family: verdana;
 text-indent: 2em;}
 p {color: antiquewhite;
 text-indent: 2em;
 font-family: Verdana;}
-body {background-color: #DBF9FC;}
 h2 {text-transform: uppercase;
 font-size: 3em;
 font-weight: bold;
 text-align: center;}
+img {width: 50%;
+width: 800px;
+height: 600px;
+margin-left: auto;
+margin-right: auto;}
+body { background-color: #DA70D6;
+	background-image: radial-gradient(#FFFFFF, #DA70D6);
+	background-repeat: no-repeat; }
