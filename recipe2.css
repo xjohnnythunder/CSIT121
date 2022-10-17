@@ -1,0 +1,59 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+#container {
+	width: 990px;
+	margin: 10px auto;
+
+}
+header {
+
+}
+#main {
+	min-height: 300px;
+	overflow: hidden;
+
+}
+#ingredients, #instructions{
+	background-color: lightgrey;
+	width: 690px;
+	float: left;
+	min-height: 300px;
+	margin: 20px;
+	margin-left: 10px;
+text-align: justify-all;
+border: 10px inset;
+display: block;
+
+
+
+
+}
+
+#paragraph{
+	position:fixed;
+   left:0px;
+   bottom:200px;
+   height:100px;
+   width:100%;
+   text-align: justify-all;
+
+}
+
+body { background-color: #DA70D6;
+	background-image: radial-gradient(#FFFFFF, #DA70D6);
+	background-repeat: no-repeat;
+}
+img {
+margin-left: auto;
+margin-right: auto;
+display: block;}
+h1 {
+	text-align: center;
+}
+a:link {
+  background-color: gold;
+  color: green;
+}
